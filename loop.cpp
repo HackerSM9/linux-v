@@ -8,6 +8,7 @@ int main ()  {
 
     while (num>0) {
         cout << num << "";
+        --num;
     }
     return 0;
     }
